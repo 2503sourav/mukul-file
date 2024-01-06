@@ -1,0 +1,567 @@
+@media screen and (max-width:1169px) {
+    .latest-from-main h2{
+        font-size: 28px;
+    }
+}
+
+@media screen and (max-width:1023px) {
+    .nav-main ul li{
+        padding: 26px 22px 15px 10px;
+    }
+    #banner-main {
+        padding-top: 55px;
+    }
+    .banner-main ul li{
+        padding-left: 45px;
+    }
+    .banner-main{
+        padding-left: 86px;
+    }
+
+    .banner-text-main h5{
+        font-size: 17px;
+    }
+    .banner-text-main h2{
+        font-size: 40px;
+    }
+    .banner-text-main p{
+        padding-top: 20px;
+        font-size: 16px;
+    }
+    button.banner-btn{
+        font-size: 14px;
+        margin-top: 20px;
+        width: 150px;
+        height: 47px;
+    }
+    .banner-text-col-main{
+        height: 470px;
+    }
+    .latest-from-text-main h2{
+        font-size: 37px;
+    }
+    .latest-from-main{
+        padding-top: 30px;
+    }
+    .latest-form-box-text-main {
+        padding-top: 25px;
+    }
+        /* .latest-from-main h2{
+            font-size: 2px;
+        } */
+    .latest-from-main .latest-from{
+        margin-top: 70px !important;
+    }
+    #best-product-main{
+        margin-top: 85px;
+    }
+    .best-product-text h3{
+        font-size: 27px;
+    }
+    #latest-product-review{
+        padding-top: 85px;
+    }
+    .latest-product-title-main h2{
+        font-size: 37px;
+    }
+    .latest-product-fertiizer-main h3{
+        font-size: 28px;
+    }
+    .view-product-btn-main{
+        padding-top: 35px;
+    }
+    #newsletter-sign-main {
+        padding-top: 85px;
+    }
+    #footer-main{
+        padding-top: 50px
+    }
+    
+}
+@media screen and (max-width:991px) {
+
+    .nav-main ul li {
+        padding: 27px 4px 16px 8px;
+    }
+    #banner-main{
+        padding-top: 40px;
+    }
+    .banner-text-main h5{
+        font-size: 16px;
+    }
+    .banner-text-main h2{
+        font-size: 38px;
+    }
+    span.banner-text-p {
+        font-size: 17px;
+    }
+    .banner-text-main p{
+        font-size: 15px;
+    }
+    button.banner-btn{
+        margin-top: 15px;
+    }
+    .latest-from-text-main h2 {
+        font-size: 35px;
+    }
+    .latest-from-box-col-main{
+        margin-bottom: 15px;
+    }
+    .latest-from-main h2 {
+        font-size: 22px;
+    }
+    .latest-from-main .latest-from {
+        margin-top: 40px !important;
+    }
+    #latest-product-review{
+        padding-top: 40px;
+    }
+    .latest-product-title-main h2{
+        font-size: 35px;
+    }
+    .latest-product-fertiizer-main{
+        margin-top: 30px
+    }
+    .latest-product-fertiizer-main h3{
+        font-size: 26px;
+    }
+    .latest-product-fertiizer-main h3 {
+        padding-top: 20px;
+    }
+    .view-product-btn-main{
+        padding-top: 30px;
+    }
+
+    #best-product-main{
+        margin-top: 60px;
+    }
+    #newsletter-sign-main {
+        padding-top: 50px;
+    }
+    .background-img {
+        height: 400px;
+    }
+    .msg-text h3{
+        font-size: 29px;
+    }
+    .newsletter-text-main p{
+        font-size: 17px;
+    }
+    .newsletter-smt{
+        margin-top: 25px;
+    }
+    #footer-main{
+        margin-top: 70px;
+    }
+    .latest-articales-main{
+        padding-bottom: 50px;
+    }
+    .footer-buttom-left-main{
+        padding-top: 15px;
+    }
+}
+@media screen and (max-width:839px) {
+    .nav-main ul li {
+        padding: 27px 3px 16px 0px;
+    }
+    .sign-btn-main{
+        padding: 26px 0 !important
+    }
+    #banner-main {
+        padding-top: 35px;
+    }
+    .banner-text-main h5{
+        font-size: 15px;
+    }
+    .banner-text-main h2 {
+        font-size: 30px;  
+    }
+    .banner-text-main p {
+        padding-top: 10px;
+   }
+   .banner-text-main p {
+    font-size: 14px;
+   }
+   .banner-text-col-main {
+    height: 400px;
+    }
+    .latest-from-text-main h2{
+        font-size: 34px;
+    }
+    .latest-from-box-text-content-main h5 {
+        padding-top: 20px;
+        font-size: 16px;
+    }
+    .latest-from-box-col-main{
+        margin-bottom: 0;
+    }
+    .latest-from-main p{
+        padding-top: 10px;
+    }
+    .latest-from-main .latest-from {
+        margin-top: 33px !important;
+    }
+    #best-product-main{
+        margin-top: 10px;
+    }
+    .best-product-text h3{
+        font-size: 22px;
+    }
+    #latest-product-review{
+        padding-top: 11px;
+    }
+    button.review-btn{
+        width: 90px !important;
+        height: 50px;
+    }
+    .latest-product-title-main h2{
+        font-size: 28px;
+    }
+    .latest-product-fertiizer-main{
+        margin-top: 26px;
+    }
+    .latest-product-fertiizer-main h3{
+        font-size: 26px;
+    }
+
+    .latest-product-fertiizer-main h3{
+        font-size: 21px;
+    }
+    .view-product-btn-main {
+        padding-top: 22px;
+    }
+    #newsletter-sign-main{
+        padding-top: 30px;
+    }
+
+    .msg-text h3{
+        font-size: 26px;
+    } 
+    .newsletter-text-main p {
+        padding-top: 18px;
+    }
+    .newsletter-text-main p {
+        padding-bottom: 20px;
+    }
+ 
+    .latest-articales-box-text-main h3 {
+        font-size: 19px;
+    }
+
+    .footer-logo-col{
+        width: 50%;
+    }
+    .latest-articales-col{
+        width: 50%;
+    }
+    .browse-col{
+        width: 50%;
+    }
+    .footer-logo-main ul li {
+        padding: 10px 0 18px 2px;
+    }
+
+    .browse-main h3 {
+        font-size: 28px;
+    }
+    .browse-main button.browse-btn {
+        width: 70px;
+    }
+    #footer-main {
+        margin-top: 40px;
+    }
+
+
+    @media screen and (max-width:767px) {
+        .logo-col{
+            width: 25%;
+        }
+        .nav-col{
+            width: 50%;
+        }
+        .sign-btn-col{
+            width: 25%;
+        }
+        .nav-main ul{
+        display: none;
+        }
+
+        .bar-btn{
+            display: unset;
+            position: absolute;
+            top: 30px;
+            right: 130px;
+            z-index: 1;
+        }
+      
+        .open ul{
+            display: unset;
+            position: absolute;
+            top: 80px;
+            right: 150px;
+            width: 250px;
+            height: 100%;
+            background-color: darkgoldenrod;
+            z-index: 11;
+        }
+
+
+        .open ul li{
+            display: block;
+            text-align: center;
+
+        }
+
+        .open .bar-btn{
+            display: none;
+        }
+
+        .open .close-btn{
+            display: unset;
+            position: absolute;
+            top: 30px;
+            right: 130px;
+            z-index: 11;
+
+            
+        }
+        .banner-main ul {
+            padding-top: 50px !important;
+        }
+        .banner-text-main h5{
+            font-size: 14px;
+        }
+        .banner-text-main h2{
+            font-size: 26px;
+        }
+        .banner-text-main p{
+            font-size: 12px;
+        }
+        button.banner-btn{
+            width: 140px;
+            height: 45px;
+        }
+        .best-product-text h3{
+            font-size: 18px;
+        }
+        
+        .banner-text-main p{
+            font-size: 13px;
+        }
+        .overlay.open{
+            display: unset;
+        }
+        .best-product-main{
+            padding: 25px 25px;
+        }
+
+        .best-product-main img{
+            width: 40px;
+        }
+        .latest-product-fertilizer-col{
+            width: 50%;
+        }
+        .latest-product-fertiizer-main h3{
+            font-size: 24px;
+        }
+        .latest-product-fertiizer-main p{
+            font-size: 17px;
+        }
+        .latest-from-text-main h2{
+            font-size: 30px;
+        }
+        .banner-text-main{
+            padding-top: 50px;
+        }
+        
+    }
+    @media screen and (max-width:639px) {
+        .logo-col{
+            width: 30%;
+        }
+        .nav-col{
+            width: 40%;
+        }
+        .sign-btn-col{
+            width: 30%;
+        }
+        .banner-text-col-main{
+            height: 620px;
+        }
+        .banner-main ul li{
+            padding-left: 40px;
+        }
+
+        .banner-col {
+            width: 100%;
+        }
+        #banner-main{
+            padding-top: 20px;
+            padding-bottom: 40px;
+        }
+        .banner-text-col{
+            width: 100%;
+        }
+        .latest-from-col{
+            width: 100%;
+        }
+        .latest-form-box-text-col{
+            width: 100%;
+        }
+        .best-product-text h3{
+            font-size: 17px;
+        }
+        .newsletter-col{
+            width: 100%;
+        }
+        .newsletter-text-col{
+            width: 100%;
+        }
+        .newsletter-text-main{
+            padding-top: 40px;
+        }
+        .footer-logo-col{
+            width: 100%;
+        }
+        .latest-product-fertilizer-col{
+            width: 100%;
+        }
+        .latest-articales-col{
+            width: 100%;
+        }
+        .best-product-text{
+            width: calc(100% - 40px);
+        }
+        .background-img{
+            height: 620px;
+        }
+        #footer-main{
+            margin-top: 20px;
+            padding-top: 25px;
+        }
+        .footer-logo-main{
+            padding-bottom: 45px;
+        }
+        .latest-articales-main{
+            padding-bottom: 40px;
+        }
+
+        .best-product-main img{
+            width: 30px;
+        }
+        .best-product-text h3{
+            padding-top: 3px;
+        }
+        .footer-buttom-col-left{
+            width: 100%;
+        }
+        .footer-buttom-right-col{
+            width: 100%;
+        }
+        .footer-buttom-right-main{
+            text-align: left;
+        }
+    
+    }
+
+    @media screen and (max-width:575px) {
+        .best-product-main{
+            padding: 25px 10px;
+        }
+        .best-product-text h3{
+            font-size: 15px;
+            display: block;
+        }
+        button.review-btn{
+            float: unset;
+            margin-left: -50px;
+            margin-top: 15px;
+        }
+        .best-product-bg-img{
+            height: 160px;
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+        }
+    }
+    
+    @media screen and (max-width:419px) {
+        .logo-col{
+            width: 30%;
+        }
+        .nav-col{
+            width: 40%;
+        }
+        .sign-btn-col{
+            width: 30%;
+        }
+        .banner-main ul{
+            padding-top: 10px !important;
+        }
+        .banner-main{
+            padding-top: 20px;
+        }
+        .banner-text-main{
+            padding-top: 5px;
+        }
+        .banner-text-col-main{
+            height: 560px;
+        }
+        #banner-main{
+            padding-top: 10px;
+             padding-bottom: 20px;
+        }
+        .latest-from-text-main h2{
+            font-size: 26px;
+        }
+        .latest-from-main{
+            padding-top: 20px;
+        }
+        .latest-from-main h2{
+            font-size: 21px;
+        }
+        .latest-from-main .latest-from{
+            margin-top: 20px !important;
+        }
+        .latest-product-title-main h2{
+            font-size: 25px;
+        }
+        .latest-product-fertiizer-main{
+            margin-top: 20px;
+        }
+        .view-product-btn-main{
+            padding-top: 15px;
+        }
+        .background-img{
+            height: 600px;
+        }
+        #footer-main{
+            margin-top: 10px;
+            padding-top: 15px;
+        }
+        .footer-logo-main ul li{
+            padding: 7px 0 10px 2px;
+        }
+        .footer-logo-main p{
+            padding-top: 10px;
+            font-size: 15px;
+        }
+        .footer-logo-main{
+            padding-bottom: 20px;
+        }
+        .latest-articales-main{
+            padding-bottom: 25px;
+        }
+        .browse-col{
+            width: 100%;
+        }
+        .browse-main input{
+            width: 250px;
+        }
+        .browse-main button.browse-btn{
+            float: right;
+            width: 80px;
+        }
+
+    }
+
+}
